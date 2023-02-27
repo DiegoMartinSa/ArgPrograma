@@ -1,0 +1,10 @@
+p {
+    color: aqua;
+}
+h1 {
+    font-weight: bold; color: blueviolet;
+    border-color: brown;
+    border: 1px solid ;
+    padding: 30px;
+    margin: 30px;
+}
